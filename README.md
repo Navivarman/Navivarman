@@ -1,79 +1,124 @@
 # Hi 👋, I'm Navi Varman
 
-### Full Stack Developer | MERN Stack Enthusiast | CSE Student
+<div align="center">
 
-I’m a passionate Full Stack Developer and Computer Science student who enjoys building scalable web applications and solving real-world problems using modern technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+Java+%7C+AWS;Passionate+Problem+Solver" alt="Typing SVG" />
 
-- 🌱 Currently learning **Advanced Backend, AWS & System Design**
-- 💻 Skilled in **MERN Stack, Next.js, Java, Spring Boot**
-- 🚀 Interested in **Cloud Computing & DevOps**
-- 🧠 Practicing **DSA, Aptitude & Problem Solving**
-- 📫 Reach me: **your-email@example.com**
-- ⚡ Fun fact: I enjoy building projects that solve practical problems
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 💫 About Me
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Redux
-
-### Backend
-- Node.js
-- Express.js
-- Java
-- Spring Boot
-
-### Database
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### Tools & Platforms
-- Git & GitHub
-- AWS
-- VS Code
-- Postman
+💻 Passionate Full Stack Developer  
+🚀 Building scalable and modern web applications  
+🌱 Currently learning **Advanced Backend, AWS & System Design**  
+🧠 Practicing **DSA, Aptitude & Problem Solving**  
+☁️ Interested in **Cloud Computing & DevOps**  
+🎯 Goal: Become a skilled Software Engineer & Tech Professional  
 
 ---
 
-## 📌 Projects
+# 🌐 Connect With Me
 
-### 🔹 Devtinder
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
+</p>
+
+## ⚙️ Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
+
+## 🗄️ Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+## ☁️ Tools & Cloud
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🔹 Devtinder
 A full-stack platform for developers to connect by sending and accepting connection requests.
 
-### 🔹 Grocery Delivery Website
+## 🔹 Grocery Delivery Website
 A MERN stack application for online grocery ordering and delivery.
 
-### 🔹 Shopper
+## 🔹 Shopper
 An e-commerce website UI built using React.js.
 
-### 🔹 Blog
+## 🔹 Blog
 A blogging platform for reading articles related to technology, startups, and lifestyle.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-```md
-![Navi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- GitHub: https://github.com/YOUR_USERNAME
+</div>
 
 ---
 
-⭐ *"Keep learning, keep building, and keep growing."*
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Navi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# ✨ Fun Quote
+
+<div align="center">
+
+### ⭐ "Keep learning, keep building, and keep growing."
+
+</div>
