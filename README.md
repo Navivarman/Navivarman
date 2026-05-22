@@ -12,7 +12,6 @@
 
 💻 Passionate Full Stack Developer  
 🚀 Building scalable and modern web applications  
-🌱 Currently learning **Advanced Backend, AWS & System Design**  
 🧠 Practicing **DSA, Aptitude & Problem Solving**  
 ☁️ Interested in **Cloud Computing & DevOps**  
 🎯 Goal: Become a skilled Software Engineer & Tech Professional  
